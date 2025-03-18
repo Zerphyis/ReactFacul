@@ -17,12 +17,19 @@
 
 <h2> Lista de Requisitos Funcionais (RF):</h2>
     RF01: O sistema deve permitir ao usuário registrar receitas e despesas com valores e descrições.
+    <br>
     RF02: O sistema deve calcular e mostrar o saldo total (receitas - despesas) em tempo real.
+      <br>
     RF03: O sistema deve exibir uma lista com todas as transações registradas.
+      <br>
     RF04: O sistema deve gerar gráficos simples (como gráficos de pizza ou barras) para representar as receitas e despesas por categoria ou por período (ex: mensal).
+      <br>
     RF05: O sistema deve salvar os dados no LocalStorage, permitindo que os dados persistam entre sessões.
+      <br>
     RF06: O sistema deve permitir que o usuário edite ou exclua transações já registradas.
+      <br>
     RF07: O sistema deve ter uma interface simples e intuitiva.
+      <br>
 
 <h2>Protótipo: </h2>
     Tela Inicial: Mostra o saldo atual, opções para adicionar uma transação (receita ou despesa), e um menu para acessar os gráficos.
